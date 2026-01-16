@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alinor Casidar</h1>
-<h3 align="center">💻 Computer Engineer | Freelancer in Web Development & Embedded Systems | 6+ Years Technician Experience | Continuous Learner</h3>
+<h3 align="center">💻 Computer Engineer | Freelancer in Web Development & Embedded Systems | 4+ Years Technician Experience | Continuous Learner</h3>
 
 - 🔭 I’m currently working on **TECHCGY**
 

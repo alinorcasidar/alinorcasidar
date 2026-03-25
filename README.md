@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **New client projects in software and hardware integration**
 
-- 👨‍💻 All of my projects are available at [alinorcasidar.com](alinorcasidar.com)
+- 👨‍💻 All of my projects are available at [alinorcasidar.com](https://alinor-casidar-portfolio.vercel.app/)
 
 - 💬 Ask me about **Embedded Systems, IoT, Web Development, and UI/UX.**
 
